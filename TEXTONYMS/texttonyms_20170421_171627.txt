@@ -1,0 +1,339 @@
+9378		-->		zest		wert		wept		west		
+
+
+966		-->		zoo		woo		won		yon		
+
+
+927		-->		zap		was		yap		war		
+
+
+924		-->		yah		wah		wag		zag		
+
+
+9		-->		y		w		z		x		
+
+
+9653		-->		woke		yoke		wold		wolf		
+
+
+9673		-->		yore		wore		word		
+
+
+222		-->		aba		aaa		abc		
+
+
+9276		-->		yarn		warn		warm		
+
+
+946		-->		win		yin		who		
+
+
+843		-->		vie		uhf		vhf		
+
+
+88		-->		tv		ut		vt		
+
+
+9253		-->		yale		wake		wale		
+
+
+9473		-->		wipe		wise		wire		
+
+
+9325		-->		weal		zeal		weak		
+
+
+9466		-->		zion		wino		whom		
+
+
+929		-->		way		wax		yaw		
+
+
+9273		-->		yard		ward		ware		
+
+
+9663		-->		wood		yond		zone		
+
+
+9676		-->		worm		zorn		worn		
+
+
+9433		-->		whee		wife		wide		
+
+
+926		-->		zan		yam		wan		
+
+
+93		-->		we		ye		
+
+
+876		-->		urn		usn		
+
+
+9278		-->		wart		wast		
+
+
+96533		-->		wolff		wolfe		
+
+
+938		-->		wet		yet		
+
+
+94673		-->		whose		whore		
+
+
+26466		-->		amino		anion		
+
+
+228		-->		act		aau		
+
+
+9327		-->		wear		year		
+
+
+947		-->		zip		yip		
+
+
+2433		-->		agee		aide		
+
+
+969		-->		wow		yow		
+
+
+92483		-->		waite		waive		
+
+
+9326		-->		weco		wean		
+
+
+26		-->		am		an		
+
+
+932		-->		web		yea		
+
+
+92936		-->		waxen		zazen		
+
+
+9447		-->		whip		whir		
+
+
+92837		-->		water		yates		
+
+
+9255		-->		walk		wall		
+
+
+9355		-->		well		yell		
+
+
+9463		-->		wine		wind		
+
+
+9277		-->		warp		wasp		
+
+
+8372		-->		vera		verb		
+
+
+936		-->		zen		yen		
+
+
+945543		-->		willie		wilkie		
+
+
+8747		-->		uris		usgs		
+
+
+89464		-->		tying		vying		
+
+
+9244464		-->		wagging		zagging		
+
+
+944		-->		zig		wig		
+
+
+243		-->		age		aid		
+
+
+9453		-->		wile		wild		
+
+
+9675		-->		york		work		
+
+
+9264		-->		yang		wang		
+
+
+98		-->		wu		wv		
+
+
+93477		-->		weiss		zeiss		
+
+
+262		-->		ama		ana		
+
+
+937637		-->		zeroes		werner		
+
+
+963		-->		zoe		woe		
+
+
+25423		-->		alice		algae		
+
+
+9462		-->		zinc		whoa		
+
+
+82583		-->		value		valve		
+
+
+97325		-->		wreck		wreak		
+
+
+2639		-->		anew		andy		
+
+
+94475		-->		whisk		whirl		
+
+
+2243		-->		acid		ache		
+
+
+24283		-->		agave		agate		
+
+
+8482		-->		vita		viva		
+
+
+8486		-->		vito		vivo		
+
+
+273		-->		are		ape		
+
+
+246		-->		ago		aim		
+
+
+923353		-->		waffle		waddle		
+
+
+223		-->		abe		ace		
+
+
+86483		-->		vogue		unite		
+
+
+2586		-->		alto		alum		
+
+
+2742742		-->		aphasic		aphasia		
+
+
+277		-->		aps		apr		
+
+
+94		-->		xi		wi		
+
+
+25569		-->		alloy		allow		
+
+
+2624368		-->		ancient		ambient		
+
+
+264		-->		ami		ani		
+
+
+226		-->		abo		acm		
+
+
+25		-->		ak		al		
+
+
+87		-->		us		up		
+
+
+935537		-->		welles		weller		
+
+
+9464		-->		zing		wing		
+
+
+96639273		-->		woodyard		woodward		
+
+
+26626		-->		amman		amoco		
+
+
+9444464		-->		zigging		wigging		
+
+
+928377433		-->		waterside		watershed		
+
+
+872		-->		usa		usc		
+
+
+96637433		-->		woodshed		woodside		
+
+
+844		-->		vii		ugh		
+
+
+9263		-->		wand		wane		
+
+
+9245		-->		wahl		wail		
+
+
+252		-->		ala		alb		
+
+
+8732		-->		usda		urea		
+
+
+933		-->		wed		wee		
+
+
+8777		-->		ussr		usps		
+
+
+269		-->		amy		any		
+
+
+8		-->		u		v		
+
+
+22233642		-->		academic		academia		
+
+
+272242		-->		arabic		arabia		
+
+
+94779		-->		wispy		zippy		
+
+
+25663		-->		alone		aloof		
+
+
+2542		-->		alga		alia		
+
+
+94353		-->		wield		yield		
+
+
+9347		-->		wehr		weir		
+
+
+926242		-->		zambia		yamaha		
+
+
+23353		-->		addle		adele		
+
+
+92536		-->		waldo		waken		
+
+

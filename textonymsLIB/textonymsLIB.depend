@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1492809642 source:c:\users\thenasker\desktop\textonymslib\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<fstream>
+	<vector>
+	<algorithm>
+	<math.h>
+	<iomanip>
+	<ctime>
+
